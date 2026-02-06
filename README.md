@@ -95,13 +95,7 @@ Docker • IIS • Git • VS Code • REST APIs
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haile444&layout=compact&theme=default)
 
----
-
-## 📫 Connect With Me
-- 🌐 Portfolio: https://my-latest-portfolio-alpha.vercel.app/
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN (optional)
-- 📧 Email: hailemeskel444@gmail.com 
+--
 
 ---
 
