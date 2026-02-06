@@ -50,3 +50,6 @@ Docker • IIS • Git • REST APIs
 - 🌐 Portfolio: https://my-latest-portfolio-alpha.vercel.app/
 - 🐙 GitHub: https://github.com/haile444
 - 💼 LinkedIn: www.linkedin.com/in/hailemeskel-girum-09099a301
+- ---
+
+⭐ Thanks for visiting — let’s build something awesome! 🚀
