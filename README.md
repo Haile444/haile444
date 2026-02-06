@@ -1,63 +1,69 @@
 # 👋 Hi, I’m Hailemeskel Girum
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=0A66C2&width=600&lines=Fullstack+Web+Developer;React+%7C+Angular+%7C+Node.js+%7C+.NET;Building+Real-World+Web+Applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=58A6FF&center=false&vCenter=true&width=650&lines=Fullstack+Web+Developer;React+%7C+Angular+%7C+Node.js+%7C+.NET;Building+Scalable+Web+Applications)
 
-I’m a **Fullstack Web Developer** focused on building scalable, performant, and user-friendly web applications using modern technologies across the frontend and backend.
+I’m a **Fullstack Web Developer** focused on building scalable, performant, and user-friendly web applications using modern frontend and backend technologies.
 
 🌍 **Portfolio:** https://my-latest-portfolio-alpha.vercel.app/
 
 ---
 
 ## 🔭 What I Do
-- Design and build fullstack web applications
-- Develop clean, secure, and maintainable APIs
-- Create responsive UIs with modern frontend frameworks
-- Containerize and deploy applications using Docker
-- Work with SQL databases and real-world data models
+- Build fullstack web applications from idea to deployment
+- Develop clean, secure, and maintainable REST APIs
+- Create responsive, modern UIs with React and Angular
+- Containerize and deploy applications using Docker & IIS
+- Design and work with relational databases (SQL & PostgreSQL)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
+![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=58A6FF)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat&logo=angular&logoColor=DD0031)
 
 ### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=3C873A)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat&logo=dotnet&logoColor=512BD4)
 
 ### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=4169E1)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat)
 
 ### 🛠 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![REST API](https://img.shields.io/badge/REST-API-lightgrey)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=2496ED)
+![IIS](https://img.shields.io/badge/IIS-0D1117?style=flat&logo=microsoft&logoColor=0078D4)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=F05032)
+![REST](https://img.shields.io/badge/REST-API-0D1117?style=flat)
+
+---
+
+## 🧠 Architecture & System Design
+I enjoy designing clean and scalable architectures for real-world applications.
+
+📐 **Architecture Diagrams & Docs**
+- 🔗 Fullstack Web App Architecture – *(add diagram link here)*
+- 🔗 REST API Architecture (Node.js / .NET) – *(add diagram link here)*
+- 🔗 Dockerized Application Setup – *(add diagram link here)*
+
+> You can link diagrams from **GitHub, Notion, Draw.io, Excalidraw, or your portfolio**.
 
 ---
 
 ## 🚀 What You’ll Find in My Repositories
 - Production-style fullstack applications
-- RESTful APIs using Node.js and .NET
+- RESTful APIs with Node.js and .NET
 - Dockerized services and environments
 - Clean architecture and real-world problem solving
 
 ---
 
-## 📌 Featured Work
-🔹 Check out my **latest projects, live demos, and case studies** on my portfolio:  
-👉 https://my-latest-portfolio-alpha.vercel.app/
+## 📊 GitHub Stats (Dark Mode)
 
----
+![Hailemeskel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=haile444&show_icons=true&theme=github_dark&rank_icon=github)
 
-## 📊 GitHub Stats
-
-![Hailemeskel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=haile444&show_icons=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haile444&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haile444&layout=compact&theme=github_dark)
 
 ---
 
@@ -65,6 +71,7 @@ I’m a **Fullstack Web Developer** focused on building scalable, performant, an
 - 🌐 Portfolio: https://my-latest-portfolio-alpha.vercel.app/
 - 🐙 GitHub: https://github.com/haile444
 - 💼 LinkedIn: https://www.linkedin.com/in/hailemeskel-girum-09099a301/
+- 📧 Email: **hailemeskel444@gmail.com**
 
 ---
 
