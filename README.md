@@ -17,7 +17,7 @@ I’m a **Fullstack Web Developer** passionate about building scalable and impac
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
-React • Angular • HTML • CSS • JavaScript
+React • Angular 
 
 ### 🧠 Backend
 Node.js • .NET
@@ -26,7 +26,7 @@ Node.js • .NET
 SQL • PostgreSQL
 
 ### 🛠 DevOps & Tools
-Docker • IIS • Git • VS Code • REST APIs
+Docker • IIS • Git • REST APIs
 
 ---
 
@@ -40,9 +40,9 @@ Docker • IIS • Git • VS Code • REST APIs
 
 ## 📈 GitHub Stats
 
-![Hailemeskel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Hailemeskel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=haile444&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haile444&layout=compact&theme=default)
 
 ---
 
