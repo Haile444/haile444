@@ -91,9 +91,9 @@ Docker • IIS • Git • VS Code • REST APIs
 
 ## 📈 GitHub Stats
 
-![Hailemeskel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Hailemeskel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=haile444&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haile444&layout=compact&theme=default)
 
 ---
 
