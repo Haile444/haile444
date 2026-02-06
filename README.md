@@ -41,14 +41,6 @@ I’m a **Fullstack Web Developer** focused on building scalable, performant, an
 
 ## 🧠 Architecture & System Design
 I enjoy designing clean and scalable architectures for real-world applications.
-
-📐 **Architecture Diagrams & Docs**
-- 🔗 Fullstack Web App Architecture – *(add diagram link here)*
-- 🔗 REST API Architecture (Node.js / .NET) – *(add diagram link here)*
-- 🔗 Dockerized Application Setup – *(add diagram link here)*
-
-> You can link diagrams from **GitHub, Notion, Draw.io, Excalidraw, or your portfolio**.
-
 ---
 
 ## 🚀 What You’ll Find in My Repositories
