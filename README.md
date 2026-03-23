@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=58A6FF&center=false&vCenter=true&width=650&lines=Fullstack+Web+Developer;React+%7C+Angular+%7C+Node.js+%7C+.NET;Building+Scalable+Web+Applications)
 
-I’m a **Fullstack Web Developer** focused on building scalable, performant, and user-friendly web applications using modern frontend and backend technologies.
+I’m a **Fullstack Developer** focused on building scalable, performant, and user-friendly web applications using modern frontend and backend technologies.
 
 🌍 **Portfolio:** https://my-latest-portfolio-alpha.vercel.app/
 
