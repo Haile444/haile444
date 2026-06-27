@@ -4,7 +4,7 @@
 
 I’m a **Fullstack Web Developer** focused on building scalable, performant, and user-friendly web applications using modern frontend and backend technologies.
 
-🌍 **Portfolio:** https://my-latest-portfolio-alpha.vercel.app/
+🌍 **Portfolio:** https://hailemeskelgirum.pro.et/
 
 ---
 
@@ -60,7 +60,7 @@ I enjoy designing clean and scalable architectures for real-world applications.
 ---
 
 ## 📫 Let’s Connect
-- 🌐 Portfolio: https://my-latest-portfolio-alpha.vercel.app/
+- 🌐 Portfolio: https://hailemeskelgirum.pro.et/
 - 🐙 GitHub: https://github.com/haile444
 - 💼 LinkedIn: https://www.linkedin.com/in/hailemeskel-girum-09099a301/
 - 📧 Email: **hailemeskel444@gmail.com**
